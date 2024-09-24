@@ -1,0 +1,69 @@
+body {
+    background: #1F1F1F;
+    font-family: "Source Code Pro", monospace;
+    color: white;
+}
+
+.page {
+    margin: 1em;
+}
+
+.code-line {
+    padding: 0.1em 0;
+}
+
+.indent2 {
+    padding-left: 1em;
+}
+
+.indent4 {
+    padding-left: 2em;
+}
+
+.indent6 {
+    padding-left: 3em;
+}
+
+.code-break {
+    height: 1em
+}
+
+.code-link {
+    color: #4DC8B0 !important;
+}
+
+.code-shift-left {
+    margin-left: -1ex;
+}
+
+.code-shift-right {
+    margin-right: -1ex;
+}
+
+.color-purple {
+    color: #C586C0;
+}
+
+.color-light-blue {
+    color: #9CDCFD;
+}
+
+.color-dark-blue {
+    color: #5599D4;
+}
+
+.color-light-orange {
+    color: #CE9178;
+}
+
+.color-light-yellow {
+    color: #CECEA0;
+}
+
+.color-yellow {
+    color: #FFD601;
+}
+
+.color-grey {
+    color: grey;
+}
